@@ -7,6 +7,10 @@ module.exports = function(router){
         res.render('index', { title: 'index' });
     });
 
+    router.get('/debug', function(req, res) {
+        res.render('debug', { title: 'index' });
+    });
+
 
 
 
