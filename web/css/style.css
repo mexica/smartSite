@@ -18,7 +18,7 @@ a:focus { outline: none; }
 .wary{width:95%;margin:10px auto;background:#fff; border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;padding:10px 0;overflow:hidden;box-shadow:2px 5px 5px #dbdbdb;}
 .wary_left{width:20%;display:inline-block;float:left;margin-left:10px;}
 .wary_left img{width:100%;}
-.wary_right{width:71%;display:inline-block;float:left;margin-left:15px;line-height:24px;color:#333333;overflow:hidden;}
+.wary_right{width:71%;display:inline-block;margin-left:15px;line-height:24px;color:#333333;overflow:hidden;}
 .wary_right .p1{font-size:22px;width:65%;float:left;padding-top:10px;}
 .wary_right .but{width:31%;float:right;padding-top:5px;}
 .wary_right .but img{width:100%;}
