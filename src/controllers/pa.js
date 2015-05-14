@@ -17,16 +17,16 @@ module.exports = function(router){
 
 
         switch(pageId){
-            case 100:page.id = 1;break;
-            case 101:page.id = 2;break;
-            case 102:page.id = 3;break;
-            case 103:page.id = 1;break;
-            case 104:page.id = 2;break;
-            case 105:page.id = 3;break;
-            case 106:page.id = 1;break;
-            case 107:page.id = 2;break;
-            case 108:page.id = 3;break;
-            case 109:page.id = 1;break;
+            case 100:page.Result = 1;break;
+            case 101:page.Result = 2;break;
+            case 102:page.Result = 3;break;
+            case 103:page.Result = 1;break;
+            case 104:page.Result = 2;break;
+            case 105:page.Result = 3;break;
+            case 106:page.Result = 1;break;
+            case 107:page.Result = 2;break;
+            case 108:page.Result = 3;break;
+            case 109:page.Result = 1;break;
             default:
                 page.Result = 1;
                 break;
