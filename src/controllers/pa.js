@@ -28,7 +28,7 @@ module.exports = function(router){
             case 108:page.id = 3;break;
             case 109:page.id = 1;break;
             default:
-                page.id = 1;
+                page.Result = 1;
                 break;
 
         }
