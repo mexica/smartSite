@@ -27,6 +27,7 @@ module.exports = function(router){
             case 107:page.Result = 2;break;
             case 108:page.Result = 3;break;
             case 109:page.Result = 3;break;
+            case 40525:page.Result = 2;break;
             default:
                 page.Result = 1;
                 break;
