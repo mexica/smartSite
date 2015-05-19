@@ -42,7 +42,7 @@ module.exports = function(router){
             case 108:page.Result = 3;break;
 
             case 109:page.Result = 3;break;
-            case 40525:page.Result = 1;break;//AB: 6EE975  //DID 679425         //董
+            case 40525:page.Result = 2;break;//AB: 6EE975  //DID 679425         //董
 
             default:
                 page.Result = 1;
