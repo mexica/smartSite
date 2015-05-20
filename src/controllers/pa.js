@@ -39,7 +39,7 @@ module.exports = function(router){
             case 107:page.Result = 2;break;
             case 40960:page.Result = 1;break;//AB:6EED6B     //DID 680420      //董
 
-            case 108:page.Result = 3;break;
+            case 108:page.Result = 3;break;//AB:6EE97D
 
             case 109:page.Result = 3;break;
             case 40525:page.Result = 2;break;//AB: 6EE975  //DID 679425         //董
