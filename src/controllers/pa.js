@@ -28,7 +28,7 @@ module.exports = function(router){
             case 102:page.Result = 3;break;//AB:70223D
             case 40928:page.Result = 3;break;//AB:70223D     //DID 680407     //
 
-            case 103:page.Result = 1;break;//AB:6E4EB4
+            case 103:page.Result = 1;break;//AB:6E4EB4       //DID 698825     //
 
             case 104:page.Result = 2;break;//AB:7018D3                //苏州李军
 
@@ -39,7 +39,8 @@ module.exports = function(router){
             case 107:page.Result = 2;break;
             case 40960:page.Result = 1;break;//AB:6EED6B     //DID 680420      //董
 
-            case 108:page.Result = 3;break;//AB:6EE97D
+            case 108:page.Result = 3;break;//AB:6EE97D       //DID 698841
+            case 36955:page.Result = 3;break;//
 
             case 109:page.Result = 3;break;
             case 40525:page.Result = 2;break;//AB: 6EE975  //DID 679425         //董
