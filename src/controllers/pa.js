@@ -30,6 +30,7 @@ module.exports = function(router){
 
             case 103:page.Result = 1;break;//AB:6E4EB4       //DID 698825     //
             case 36957:page.Result = 1;break;
+            case 54592:page.Result = 1;break;
 
 
             case 104:page.Result = 2;break;//AB:7018D3                //苏州李军
