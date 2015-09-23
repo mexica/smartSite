@@ -3,6 +3,8 @@ var express = require('express');
 module.exports = function(app){
     var router = null;
 
+    require('./api')(app);
+    require('./modules')(app);
 
     //activity
     router = express.Router({strict: true});
